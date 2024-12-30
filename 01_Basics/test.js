@@ -1,0 +1,1 @@
+console.log("Hello duniya walon I am Izzah Salam")
